@@ -13,11 +13,11 @@ More formats coming soon / by request.
 Sources:
 
 * World data
-** https://github.com/CSSEGISandData/COVID-19
-** https://www.worldometers.info/coronavirus/
+  * https://github.com/CSSEGISandData/COVID-19
+  * https://www.worldometers.info/coronavirus/
 
 * South Korea
-** https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
+  * https://www.cdc.go.kr/board/board.es?mid=a30402000000&bid=0030
 
-China
-** http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51
+* China
+  * http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51
