@@ -10,6 +10,8 @@ File formats:
 
 More formats coming soon / by request.
 
+Files:
+
 Sources:
 
 * World data
@@ -21,3 +23,7 @@ Sources:
 
 * China
   * http://weekly.chinacdc.cn/en/article/id/e53946e2-c6c4-41e9-9a9b-fea8db1a8f51
+  * https://www.nejm.org/doi/pdf/10.1056/NEJMoa2002032?articleTools=true
+
+* Diamond Princess
+  * https://www.niid.go.jp/niid/en/2019-ncov-e/9417-covid-dp-fe-02.html
