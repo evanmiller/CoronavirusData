@@ -27,3 +27,6 @@ Sources:
 
 * Diamond Princess
   * https://www.niid.go.jp/niid/en/2019-ncov-e/9417-covid-dp-fe-02.html
+
+* Singapore
+  * https://co.vid19.sg/cases/search
